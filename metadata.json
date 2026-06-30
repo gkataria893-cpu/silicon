@@ -1,0 +1,6 @@
+{
+  "name": "Silicon Product",
+  "description": "A premium, responsive eCommerce platform with an accompanying complete Android Studio WebView project.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
